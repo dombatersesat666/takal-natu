@@ -4,7 +4,7 @@ Script sederhana untuk menyisipkan potongan script ke dalam file-file di direkto
 
 ## Penggunaan
 
-1. Jalankan script `insert_script.php`.
+1. Jalankan script `pepekbabi.php`.
 2. Masukkan path direktori.
 3. Masukkan potongan script.
 4. Pilih posisi (HEAD atau BODY).
