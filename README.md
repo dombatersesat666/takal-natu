@@ -10,7 +10,7 @@ Script sederhana untuk menyisipkan potongan script ke dalam file-file di direkto
 4. Pilih posisi (HEAD atau BODY).
 5. Masukkan nama file.
 6. Tekan "Submit".
-
+![Nama Gambar](takal-natu.png)
 ## Catatan
 
 - Gunakan dengan hati-hati.
